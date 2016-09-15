@@ -1,0 +1,13 @@
+Startup Notes:
+-------------
+1. Upon seeing the OS verification screen, hold Ctrl+D down to boot to Chrome OS.
+
+2. Use Ctrl+Alt+T to enter the shell.
+
+3. Download Crouton
+   >shell
+   >sudo sh ~/Downloads/crouton -r trusty -t xfce
+   
+4. Switch between distros:
+   sudo startxfce4 -n trusty (ubuntu 14.04)
+or sudo startxfce4 -n precise (ubuntu 12.02)	
